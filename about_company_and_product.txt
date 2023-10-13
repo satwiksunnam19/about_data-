@@ -1,0 +1,21 @@
+When the question or query is about the company and product related, you can use the below mentioned reference 
+Company Information:
+
+Company Name: MBRDI (Mobile-Based Learning Solutions)
+Year Founded: 2010
+Headquarters: San Francisco, California
+Founders: Satwik Sunnam
+Company Mission: To empower students with innovative mobile-based learning solutions that enhance their preparation for national examinations and academic success.
+
+About the MBRDI App:
+
+App Name: MBRDI PrepMate
+Description: MBRDI PrepMate is a cutting-edge mobile application designed to assist students in their preparation for national examinations. It offers a wide range of educational resources, interactive study materials, and practice exams to help students excel in their studies.
+Key Features:
+Subject-specific study guides and tutorials.
+Interactive quizzes and practice tests with instant feedback.
+Personalized study plans tailored to individual student needs.
+Progress tracking and performance analytics.
+In-app chat support for answering academic queries.
+Offline access to study materials for on-the-go learning.
+Compatibility with both Android and iOS devices.
