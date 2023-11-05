@@ -1,21 +1,15 @@
-When the question or query is about the company and product related, you can use the below mentioned reference 
-Company Information:
+Swiggy is India's largest and most valued online food ordering and delivery platform founded in 2014. It is based in Bangalore, India, and operates in over 500 Indian cities. Swiggy was founded by BITS Pilani Alum Sriharsha Majesty, Rahul Jaimini, and Nandan Reddy.
 
-Company Name: MBRDI (Mobile-Based Learning Solutions)
-Year Founded: 2010
-Headquarters: San Francisco, California
-Founders: Satwik Sunnam
-Company Mission: To empower students with innovative mobile-based learning solutions that enhance their preparation for national examinations and academic success.
+Swiggy operates by providing a complete food ordering and delivery solution from the best neighborhood restaurants to the urban foodie. It creates a bridge between customers and restaurants and avails services for both that can manage to solve all their woes. 
 
-About the MBRDI App:
+The main operational model of Swiggy is to acquire orders from customers and route them to restaurants, then deliver them on time to the customer's place through delivery partners known as Swiggy’s. Swiggy ensures a 'no minimum order policy' on any restaurant and accepts online payments for all partner restaurants that it works with. 
 
-App Name: MBRDI PrepMate
-Description: MBRDI PrepMate is a cutting-edge mobile application designed to assist students in their preparation for national examinations. It offers a wide range of educational resources, interactive study materials, and practice exams to help students excel in their studies.
-Key Features:
-Subject-specific study guides and tutorials.
-Interactive quizzes and practice tests with instant feedback.
-Personalized study plans tailored to individual student needs.
-Progress tracking and performance analytics.
-In-app chat support for answering academic queries.
-Offline access to study materials for on-the-go learning.
-Compatibility with both Android and iOS devices.
+To handle operations smoothly, it has a dedicated fleet of delivery personnel who pick-up orders from restaurants and deliver them to customers. The delivery personnel are equipped with smartphones and an app powered by routing algorithms, which suggests the shortest and fastest route to customer's address. This ensures a fast and efficient delivery of food.
+
+The company's efforts to distinguish itself in a largely untapped market have involved a number of initiatives, such as Swiggy POP (which offers single-serve meals in the form of pre-set combos), Swiggy Super (a subscription-based service that offers free deliveries), Swiggy Scheduled (which allows users to plan and order their meals in advance), and Swiggy Daily (a homestyle meal subscription service).
+
+Swiggy is known for its innovative technology, large and nimble delivery service, and exceptional customer service. It has a live order tracking feature which allows customers to track their order in real time. It also introduced features like Swiggy Instant Pick up and Drop service where customers can send packages across the city through Swiggy.
+
+The company has risen rapidly since its inception and has garnered investments from some high-profile investors, such as Naspers, Accel, SAIF Partners, DST Global, Tencent, and Coatue Management. It is considered among the prominent startup unicorns in India. 
+
+However, like many startups in the food delivery sector, Swiggy faces operational challenges, stiff competition (what with players like Zomato, Foodpanda, and Uber Eats), and criticism regarding pay and working conditions for its delivery partners. Despite this, Swiggy continues to be a key player in India's food delivery market due to its wide range of restaurant options, fast delivery times, and user-friendly app interface. It aims to "change the way India eats" by continuously improving its services and expanding to more cities across the country.
